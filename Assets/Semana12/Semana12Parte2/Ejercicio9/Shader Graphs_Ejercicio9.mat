@@ -37,11 +37,11 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _OtraTextureB:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 81ea45b5e49912842846fbc3b16ba141, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OtraTexutreA:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 47ce5d06bcdfa4745b78147294f193f9, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -60,7 +60,7 @@ Material:
     m_Floats:
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _SpeedX1: 0
-    - _SpeedY2: 0
+    - _SpeedX1: 0.21
+    - _SpeedY2: 1
     m_Colors: []
   m_BuildTextureStacks: []
