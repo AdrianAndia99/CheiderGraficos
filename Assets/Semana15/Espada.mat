@@ -58,7 +58,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _GradientNoisePower: 2.1
+    - _GradientNoisePower: 6.32
     - _GradientNoiseScale: 18.49
     - _Metallic: 28.86
     - _QueueControl: 0
