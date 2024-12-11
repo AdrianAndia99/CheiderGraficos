@@ -66,13 +66,13 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _MaskSpeed: 2.8
+    - _MaskSpeed: 0
     - _QueueControl: 0
     - _QueueOffset: 0
     - _RippleStrenght: 1
-    - _RippleTile: 1.27
-    - _Smmothness: 0.57
-    - _Speed: -17.33
+    - _RippleTile: 1
+    - _Smmothness: 0
+    - _Speed: 0
     - _Tiling: -4.41
     m_Colors:
     - _Tint: {r: 1, g: 1, b: 1, a: 1}
